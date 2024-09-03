@@ -1,0 +1,5 @@
+npm install -g expo-cli
+expo init myApp
+cd myApp
+npm install @react-native-firebase/app @react-native-firebase/auth @react-native-firebase/firestore
+expo start
